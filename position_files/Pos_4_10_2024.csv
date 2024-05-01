@@ -1,0 +1,46 @@
+﻿Account Number,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Today's Gain/Loss Dollar,Today's Gain/Loss Percent,Total Gain/Loss Dollar,Total Gain/Loss Percent,Percent Of Account,Cost Basis Total,Average Cost Basis,Type
+X83787064,Individual Brokerage,SPAXX**,HELD IN MONEY MARKET,,,,$5.44,,,,,0.01%,,,Cash
+X83787064,Individual Brokerage,912797FS1,UNITED STATES TREAS BILLS ZERO CPN 0.00000% 06/13/2024,10000,$99.072,+$0.013,$9907.20,+$1.30,+0.01%,+$158.38,+1.62%,10.22%,$9748.82,--,Cash
+X83787064,Individual Brokerage,91282CDB4,UNITED STATES TREAS SER AT-2024 0.62500% 10/15/2024 NTS NOTE,3000,$97.682,+$0.022,$2930.46,+$0.66,+0.02%,+$42.48,+1.47%,3.02%,$2887.98,--,Cash
+X83787064,Individual Brokerage,FDLXX,FIDELITY TREASURY ONLY MONEY MARKET FD,10238.19,$1.00,$0.00,$10238.19,n/a,n/a,n/a,n/a,10.57%,n/a,n/a,Cash
+X83787064,Individual Brokerage,FSKAX,FIDELITY TOTAL MARKET INDEX FUND,169.022,$143.71,+$0.24,$24290.15,+$40.56,+0.16%,+$2285.08,+10.38%,25.07%,$22005.07,$130.19,Cash
+X83787064,Individual Brokerage,FXAIX,FIDELITY 500 INDEX FUND,140.965,$180.91,+$0.28,$25501.97,+$39.47,+0.15%,+$2424.25,+10.50%,26.32%,$23077.72,$163.71,Cash
+X83787064,Individual Brokerage,ONEQ,FIDELITY NASDAQ COMPOSITE INDEX ETF,377.771,$63.615,-$0.555,$24031.90,-$209.67,-0.87%,+$1989.45,+9.02%,24.80%,$22042.45,$58.35,Cash
+220468797,Fidelity Roth IRA,FBALX,FIDELITY BALANCED,593.078,$28.55,+$0.05,$16932.37,+$29.65,+0.17%,+$7332.37,+76.37%,16.18%,$9600.00,$16.19,Cash
+220468797,Fidelity Roth IRA,FBTC,FIDELITY WISE ORIGIN BITCOIN FUND,21.109,$59.87,-$0.44,$1263.79,-$9.29,-0.73%,+$33.68,+2.73%,1.21%,$1230.11,$58.27,Cash
+220468797,Fidelity Roth IRA,FDLXX,FIDELITY TREASURY ONLY MONEY MARKET FD,796.76,$1.00,$0.00,$796.76,n/a,n/a,n/a,n/a,0.76%,n/a,n/a,Cash
+220468797,Fidelity Roth IRA,FIVLX,FIDELITY INT'L VALUE,420.85,$10.57,-$0.05,$4448.38,-$21.05,-0.48%,+$474.80,+11.94%,4.25%,$3973.58,$9.44,Cash
+220468797,Fidelity Roth IRA,FSDIX,FIDELITY STRATEGIC DIVIDEND & INCOME,617.797,$16.56,+$0.04,$10230.71,+$24.71,+0.24%,+$4680.71,+84.33%,9.78%,$5550.00,$8.98,Cash
+220468797,Fidelity Roth IRA,FSELX,FIDELITY SELECT SEMICONDUCTORS PORT,1105.335,$30.62,+$0.16,$33845.35,+$176.85,+0.52%,+$23480.20,+226.53%,32.34%,$10365.15,$9.38,Cash
+220468797,Fidelity Roth IRA,FSKAX,FIDELITY TOTAL MARKET INDEX FUND,67.985,$143.71,+$0.24,$9770.12,+$16.31,+0.16%,+$3270.12,+50.30%,9.34%,$6500.00,$95.61,Cash
+220468797,Fidelity Roth IRA,FSMEX,FIDELITY SELECT MED TECHNOLOGY & DEVICES,129.644,$67.42,+$0.91,$8740.59,+$117.97,+1.36%,+$4136.46,+89.84%,8.35%,$4604.13,$35.51,Cash
+220468797,Fidelity Roth IRA,FTIHX,FIDELITY TOTAL INTL INDEX FUND,120.253,$13.75,+$0.03,$1653.47,+$3.60,+0.21%,+$153.47,+10.23%,1.58%,$1500.00,$12.47,Cash
+220468797,Fidelity Roth IRA,FXAIX,FIDELITY 500 INDEX FUND,93.754,$180.91,+$0.28,$16961.03,+$26.25,+0.15%,+$6611.03,+63.87%,16.21%,$10350.00,$110.40,Cash
+221575194,SwRI Rollover IRA,62400PKP4,MOUNTAIN COMM BK ERWIN TENN CD 4.50000% 12/21/2026,1000,$99.419,+$0.036,$994.19,+$0.36,+0.03%,-$5.81,-0.59%,0.26%,$1000.00,--,Cash
+221575194,SwRI Rollover IRA,912796Y52,UNITED STATES TREAS BILLS ZERO CPN 0.00000% 07/05/2024,35000,$98.752,+$0.015,$34563.20,+$5.25,+0.01%,+$22.37,+0.06%,9.11%,$34540.83,--,Cash
+221575194,SwRI Rollover IRA,912797GW1,UNITED STATES TREAS BILLS ZERO CPN 0.00000% 10/03/2024,35000,$97.502,+$0.023,$34125.70,+$8.05,+0.02%,+$19.64,+0.05%,8.99%,$34106.06,--,Cash
+221575194,SwRI Rollover IRA,912828YM6,UNITED STATES TREAS SER AF-2024 1.50000% 10/31/2024 NTS NOTE,10000,$97.957,+$0.017,$9795.70,+$1.70,+0.01%,+$109.00,+1.12%,2.58%,$9686.70,--,Cash
+221575194,SwRI Rollover IRA,FBTC,FIDELITY WISE ORIGIN BITCOIN FUND,28.817,$59.87,-$0.44,$1725.27,-$12.68,-0.73%,-$16.96,-0.98%,0.45%,$1742.23,$60.46,Cash
+221575194,SwRI Rollover IRA,FCNVX,FIDELITY CONSERVATIV INCOME BOND FD,404.264,$10.05,$0.00,$4062.85,$0.00,0.00%,+$62.85,+1.57%,1.07%,$4000.00,$9.89,Cash
+221575194,SwRI Rollover IRA,FSELX,FIDELITY SELECT SEMICONDUCTORS PORT,2416.881,$30.62,+$0.16,$74004.89,+$386.70,+0.52%,+$35332.89,+91.36%,19.50%,$38672.00,$16.00,Cash
+221575194,SwRI Rollover IRA,FSKAX,FIDELITY TOTAL MARKET INDEX FUND,631.56,$143.71,+$0.24,$90761.48,+$151.57,+0.16%,+$28561.48,+45.91%,23.91%,$62200.00,$98.49,Cash
+221575194,SwRI Rollover IRA,FSMEX,FIDELITY SELECT MED TECHNOLOGY & DEVICES,47.207,$67.42,+$0.91,$3182.69,+$42.95,+1.36%,+$182.69,+6.08%,0.84%,$3000.00,$63.55,Cash
+221575194,SwRI Rollover IRA,FSTGX,FIDELITY INTERM GOV'T INCOME,1462.08,$9.59,+$0.02,$14021.34,+$29.24,+0.20%,+$21.34,+0.15%,3.69%,$14000.00,$9.58,Cash
+221575194,SwRI Rollover IRA,FTIHX,FIDELITY TOTAL INTL INDEX FUND,76.982,$13.75,+$0.03,$1058.50,+$2.30,+0.21%,+$58.50,+5.85%,0.28%,$1000.00,$12.99,Cash
+221575194,SwRI Rollover IRA,FXAIX,FIDELITY 500 INDEX FUND,410.285,$180.91,+$0.28,$74224.65,+$114.87,+0.15%,+$25273.11,+51.62%,19.56%,$48951.54,$119.31,Cash
+221575194,SwRI Rollover IRA,FZDXX,FIDELITY MMKT PREMIUM CLASS,26417.75,$1.00,$0.00,$26417.75,n/a,n/a,n/a,n/a,6.96%,n/a,n/a,Cash
+221575194,SwRI Rollover IRA,ONEQ,FIDELITY NASDAQ COMPOSITE INDEX ETF,166.356,$63.615,-$0.555,$10582.73,-$92.33,-0.87%,+$4376.25,+70.51%,2.79%,$6206.48,$37.31,Cash
+67762,UL Retirement IRA,31565A745,FID FRDM INX 2050 T,2969.113,$29.00,+$0.06,$86104.28,+$178.15,+0.21%,+$11817.05,+15.91%,64.17%,$74287.23,$25.02,
+67762,UL Retirement IRA,31617E836,FID GROWTH CO POOL A,55.92,$58.85,-$0.08,$3290.89,-$4.47,-0.14%,+$579.34,+21.37%,2.45%,$2711.55,$48.49,
+67762,UL Retirement IRA,DOXIX,DODGE & COX INCOME X,622.191,$12.38,+$0.05,$7702.72,+$31.10,+0.41%,-$50.05,-0.65%,5.74%,$7752.77,$12.46,
+67762,UL Retirement IRA,FIPDX,FID INFL PR BD IDX,1017.59,$8.99,+$0.03,$9148.13,+$30.52,+0.33%,-$208.65,-2.23%,6.82%,$9356.78,$9.20,
+67762,UL Retirement IRA,FSKAX,FID TOTAL MKT IDX,120.425,$143.71,+$0.24,$17306.28,+$28.91,+0.17%,+$1606.80,+10.23%,12.90%,$15699.48,$130.37,
+67762,UL Retirement IRA,FSPSX,FID INTL INDEX,60.222,$49.83,-$0.01,$3000.86,-$0.60,-0.02%,+$211.90,+7.60%,2.24%,$2788.96,$46.31,
+67762,UL Retirement IRA,VBTIX,VANG TOT BD MKT INST,806.343,$9.47,+$0.03,$7636.07,+$24.19,+0.32%,-$41.04,-0.53%,5.69%,$7677.11,$9.52,
+221401882,Health Savings Account,CORE**,FDIC-INSURED DEPOSIT SWEEP,,,,$0.48,,,,,100.00%,,,Cash
+
+"The data and information in this spreadsheet is provided to you solely for your use and is not for distribution. The spreadsheet is provided for informational purposes only, and is not intended to provide advice, nor should it be construed as an offer to sell, a solicitation of an offer to buy or a recommendation for any security by Fidelity or any third party. Data and information shown is based on information known to Fidelity as of the date it was exported and is subject to change. It should not be used in place of your account statements or trade confirmations and is not intended for tax reporting purposes. For more information on the data included in this spreadsheet, including any limitations thereof, go to Fidelity.com."
+
+"Brokerage services are provided by Fidelity Brokerage Services LLC (FBS), 900 Salem Street, Smithfield, RI 02917. Custody and other services provided by National Financial Services LLC (NFS). Both are Fidelity Investment companies and members SIPC, NYSE. Neither FBS nor NFS offer crypto as a direct investment nor provide trading or custody services for such assets."
+
+"Date downloaded 04/10/2024 10:32 AM ET"
